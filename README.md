@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm putbullet</h1>
 <h3 align="center">Software & Security Enthusiast</h3>
 
-<h2 align="left">Hi 👋! I'm putbullet</h2>
 
 ###
 
-<p align="left">Follow me on my socials below 👇</p>
+<h2 align="left">Follow me on my socials below 👇</h2>
 
 ###
 
@@ -29,7 +28,8 @@
 <div align="left">
 
 
-  
+  <h2 align="left">I DO & LOVE</h2>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
 
