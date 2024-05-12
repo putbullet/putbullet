@@ -67,12 +67,31 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=putbullet&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ###
+</div>
 
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=putbullet&theme=vue-dark&dates=979797&stroke=00000000&background=00000000&fire=fff&hide_border=true" />
+    </td>
+  </tr>
+</p>
+<div align="center">
+  <div style="display: flex; justify-content: space-between;">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=putbullet&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=putbullet&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  </div>
+</div>
+
+<br/>
+<hr/>
 
 ###
 
