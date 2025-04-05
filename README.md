@@ -87,7 +87,10 @@
   <div style="display: flex; justify-content: space-between;">
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=putbullet&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=putbullet&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/putbullet.png" alt="TryHackMe" />
+
   </div>
+  
 </div>
 
 <br/>
