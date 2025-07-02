@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm putbullet</h1>
-<h3 align="center">Software & Security Enthusiast</h3>
+<h3 align="center">Software, Data Sc & Security Enthusiast</h3>
 
 
 ###
