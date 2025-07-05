@@ -51,7 +51,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="30" alt="numpy logo" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="numpy logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
   <img width="12" />
