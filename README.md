@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm putbullet</h1>
-<h3 align="center">Software, Data Sc & Security Enthusiast</h3>
+<h1 align="center">
+  Hi 👋, I'm
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=36BCF7&width=230&height=55&lines=putbullet;Soulaimane"
+    alt="putbullet or Soulaimane"
+    align="center"
+  />
+</h1>
+ 
+ <h3 align="center">Software, Data Sc & Security Enthusiast</h3>
 
 ###
 
